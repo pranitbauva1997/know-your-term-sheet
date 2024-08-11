@@ -26,7 +26,7 @@ Investors' **full-time job is to negotiate contracts like term sheets** and they
 
 Maybe you have heard of the saying *"If you don't know who's the fool on the table, it's probably you"*. Honestly, by reading the term sheet, it's not very clear who's the fool on the table.
 
-The investors say, "Don't worry, you can take help from our lawyer" and all sorts of alarm bells start ringing in your head. So, you call up another founder and ask him if he knows any good lawyers. They recommend someone. But you also realise, **lawyers work harder for someone who knows what they are doing**.
+The investors say, "Don't worry, you can take help from our lawyer" and all sorts of alarm bells start ringing in your head. So, you call up another founder and ask them if they knows any good lawyers. They recommend someone. But you also realise, **lawyers work harder for someone who knows what they are doing**.
 
 **Your startup is your baby** and the worst nightmare of a VC backed entrepreneur is to be **kicked out of the very company** they founded. If you have seen the TV series Silicon Valley, you might recollect this scene below.
 
