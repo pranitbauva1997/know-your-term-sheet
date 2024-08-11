@@ -35,9 +35,9 @@
       <p>I have been a founder before and I have created this page to make sure founders have that someone who could tell them that they could take less.</p>
       <p>Luckily, you don't have to share your term sheet or any of your personal information with me. Take the below prompt and use your favourite LLM model with the biggest context size and attach your term sheet over there.</p>
       <div class="button-container">
-        <button>Copy Prompt</button>
+        <button id="copy-prompt-button">Copy Prompt</button>
       </div>
-      <pre>
+      <pre id="prompt-code">
 This is a term sheet given by a venture capitalist. I have a few questions that protect the company's and the founders' interests. Explain. 
  - Does the liquidation preference fall under non-participating or participating and what is the multiple, or is it something else?
  - Does it have pay-to-play provision?
@@ -88,4 +88,18 @@ This is a term sheet given by a venture capitalist. I have a few questions that 
     </main>
     <footer>Copyright © <a target="_blank" href="https://bauva.com">Pranit Bauva</a>. All rights reserved. This should not be considered legal advice.</footer>
   </body>
+  <script>
+    function copyTextToClipboard(text) {
+      navigator.clipboard.writeText(text).then(function() {
+        console.log('Text successfully copied to clipboard');
+      }).catch(function(err) {
+        console.error('Failed to copy text: ', err);
+      });
+    }
+
+    document.getElementById("copy-prompt-button").addEventListener("click", function() {
+      var preContent = document.getElementById("prompt-code").textContent;
+      copyTextToClipboard(preContent);
+    });
+  </script> 
 </html>
