@@ -22,7 +22,7 @@ You also realise that your *full-time job is to build products, team, culture an
 
 **But, but, but ...**
 
-Investors' **full-time job is to negotiate contracts like term sheets** and they probably have been doing it for years and are good at it. That's how they get a kick out of their life and feel that *they are helpful* and that they are *contributing to the greater good of society*.
+Investors' **full-time job is to negotiate contracts like term sheets** and they probably have been doing it for years and are good at it.
 
 Maybe you have heard of the saying *"If you don't know who's the fool on the table, it's probably you"*. Honestly, by reading the term sheet, it's not very clear who's the fool on the table.
 
