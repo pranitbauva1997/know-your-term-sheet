@@ -31,6 +31,10 @@ a:link, a:visited, a:active, a:hover {
   color: #023e8a;
 }
 
+a:hover {
+  text-decoration-style: solid;
+}
+
 nav {
   display: flex;
   flex-direction: column;
