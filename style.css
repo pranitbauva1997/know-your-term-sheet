@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 2.3em;
 }
 
 h2 {
@@ -60,10 +60,14 @@ footer {
   padding-bottom: 100px;
 }
 
+ul {
+  list-style-type: "—  ";
+}
+
 li {
   margin-top: 10px;
   margin-bottom: 10px;
-  line-height: 1.5;
+  line-height: 1.7;
 }
 
 .reading-references {
