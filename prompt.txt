@@ -1,0 +1,37 @@
+This is a term sheet given by a venture capitalist. I have a few questions that protect the company's and the founders' interests. Explain. 
+ - Does the liquidation preference fall under non-participating or participating and what is the multiple, or is it something else?
+ - Does it have pay-to-play provision?
+ - Does founder's stock have a vesting schedule with some kind of a cliff? Is the vesting monthly, quarterly or yearly?
+ - Does it have anti-dilution clause? Is it full-ratchet or weighted average or is it something else? If something else, explain in detail with examples
+ - Does it have a clause to include a board member or a board observer? If yes, how many?
+ - Does it have some protective provisions like (explain in detail):
+   - Company can't change the terms of stock owned by the VC
+   - Company can't authorize the creation of more stock
+   - Company can't issue stock senior or equal to the VC’s
+   - Company can't buy back any common stock
+   - Company can't sell the company
+   - Company can't change the certificate of incorporation or bylaws
+   - Company can't change the size of board of directors
+   - Company can't pay or declare a dividend
+   - Company can't borrow money
+   - Company can't declare bankruptcy without the VC’s approval
+   - Company can't license away the intellectual property of the company, effectively selling the company without the VC’s consent
+   - Company can't consumate an initial coin offering or similar financings
+   - Company can't create a token-based interest in the company
+ - Does it have a drag along clause?
+ - Does it have a conversion clause for preferred shares becoming common shares or automatic conversion clause (IPO or M&A or something else)?
+ - Does it have a dividend clause?
+ - Does it have a redemption clause? If yes, point it out and mention that it's terrible
+ - What are the conditions precedent to financing? (Approval by investor's partnerships, Rights offering to be completed by company, employement agreements signed by founders as acceptable to investors?)
+ - Does it have information rights? What if VC invests in a competitor?
+ - Does it have registration rights?
+ - Does it have a right of first refusal?
+ - Does it have voting rights? How are they structured?
+ - Does it have restriction on sales?
+ - Does it have proprietary information and inventions agreement?
+ - Does it have a co-sale agreement?
+ - Does it have a founder's activities clause?
+ - Does it have initial public offering shares purchase clause?
+ - Does it have a no-shop agreement?
+ - Does it have indemnification clause?
+ - Does it have assignment clause?

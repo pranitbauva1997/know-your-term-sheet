@@ -36,7 +36,7 @@ I have been a founder before and I have created this page to make sure founders 
 
 Luckily, you don't have to share your term sheet or any of your personal information with me. Take the below prompt and use your favourite LLM model with the biggest context size and attach your term sheet over there.
 
-Check out the prompt here. TODO.
+[Check out the prompt here](prompt.txt).
 
 Yours truly,<br />[Pranit Bauva](https://bauva.com)<br />pranit &#60;at&#62; bauva.com
 
