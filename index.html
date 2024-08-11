@@ -192,7 +192,7 @@
       <p>The investors say, "Don't worry, you can take help from our lawyer" and all sorts of alarm bells start ringing in your head. So, you call up another founder and ask them if they knows any good lawyers. They recommend someone. But you also realise, <b>lawyers work harder for someone who knows what they are doing</b>.</p>
       <p><b>Your startup is your baby</b> and the worst nightmare of a VC backed entrepreneur is to be <b>kicked out of the very company they founded</b>. If you have seen the TV series Silicon Valley, you might recollect this scene below.</p>
       <div class="iframe-container">
-        <iframe loading="lazy" title="Raising too much money (Silicon Valley TV show)" src="https://www.youtube.com/embed/8ZgfTarNxdY"></iframe>
+        <iframe id="yt-embed" loading="lazy" title="Raising too much money (Silicon Valley TV show)" data-src="https://www.youtube.com/embed/8ZgfTarNxdY"></iframe>
       </div>
       <p>I have been a founder before and I have created this page to make sure founders have that someone who could tell them that they could take less.</p>
       <p>Luckily, you don't have to share your term sheet or any of your personal information with me. Take the below prompt and use your favourite LLM model with the biggest context size and attach your term sheet over there.</p>
@@ -263,5 +263,9 @@ This is a term sheet given by a venture capitalist. I have a few questions that 
       var preContent = document.getElementById("prompt-code").textContent;
       copyTextToClipboard(preContent);
     });
+
+    yt_embed = document.getElementById("yt-embed");
+    yt_embed_url = yt_embed.getAttribute("data-src");
+    yt_embed.setAttribute("src", yt_embed_url);
   </script> 
 </html>
