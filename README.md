@@ -39,7 +39,9 @@ Luckily, you don't have to share your term sheet or any of your personal informa
 Check out the prompt here. TODO.
 
 Yours truly,
+
 [Pranit Bauva](https://bauva.com)
+
 pranit <at> bauva.com
 
 ## Reading Materials:
