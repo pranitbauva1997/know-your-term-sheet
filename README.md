@@ -42,7 +42,7 @@ Yours truly,
 
 [Pranit Bauva](https://bauva.com)
 
-pranit <at> bauva.com
+pranit &#60;at&#62; bauva.com
 
 ## Reading Materials:
 
