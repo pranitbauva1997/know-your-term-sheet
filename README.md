@@ -38,11 +38,7 @@ Luckily, you don't have to share your term sheet or any of your personal informa
 
 Check out the prompt here. TODO.
 
-Yours truly,
-
-[Pranit Bauva](https://bauva.com)
-
-pranit &#60;at&#62; bauva.com
+Yours truly,<br />[Pranit Bauva](https://bauva.com)<br />pranit &#60;at&#62; bauva.com
 
 ## Reading Materials:
 
