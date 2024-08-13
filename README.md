@@ -38,6 +38,8 @@ Luckily, you don't have to share your term sheet or any of your personal informa
 
 [Check out the prompt here](prompt.txt).
 
+PS: [Checkout the backstory](https://bauva.com/blog/know-your-term-sheet/)
+
 **Yours truly,<br />[Pranit Bauva](https://bauva.com)<br />pranit &#60;at&#62; bauva.com**
 
 ## Reading Materials:
