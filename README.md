@@ -1,6 +1,6 @@
 # Know your term sheet
 
-Dear **Founder**,
+**Dear Founder**,
 
 You have a *world-changing idea of solving an important problem*.
 
@@ -24,7 +24,7 @@ You also realise that your *full-time job is to build products, team, culture an
 
 Investors' **full-time job is to negotiate contracts like term sheets** and they probably have been doing it for years and are good at it.
 
-Maybe you have heard of the saying *"If you don't know who's the fool on the table, it's probably you"*. Honestly, by reading the term sheet, it's not very clear who's the fool on the table.
+Maybe you have heard of the saying "*If you don't know who's the fool on the table, it's probably you*". Honestly, by reading the term sheet, it's not very clear who's the fool on the table.
 
 The investors say, "Don't worry, you can take help from our lawyer" and all sorts of alarm bells start ringing in your head. So, you call up another founder and ask them if they knows any good lawyers. They recommend someone. But you also realise, **lawyers work harder for someone who knows what they are doing**.
 
@@ -38,7 +38,7 @@ Luckily, you don't have to share your term sheet or any of your personal informa
 
 [Check out the prompt here](prompt.txt).
 
-Yours truly,<br />[Pranit Bauva](https://bauva.com)<br />pranit &#60;at&#62; bauva.com
+**Yours truly,<br />[Pranit Bauva](https://bauva.com)<br />pranit &#60;at&#62; bauva.com**
 
 ## Reading Materials:
 

@@ -1,30 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Know Your Term Sheet</title>
+    <title>Know Your Term Sheet AI Prompt</title>
     <meta charset="utf-8">
     <meta content="ie=edge" http-equiv="x-ua-compatible">
     <meta name="handheldfriendly" content="true">
     <meta name="viewport" content="initial-scale=1, width=device-width">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Pranit Bauva">
-    <meta name="description" content="Once upon a time, the dark arts of term sheets were closely guarded. Now we can take the help of LLMs to understand them better.">
+    <meta name="description" content="Once upon a time, the dark arts of term sheets were closely guarded. Now we can take the help of AI & LLMs to understand them better.">
     <meta name="keywords" content="startups,venture capital,term sheet,entrepreneur,fund raising,seed,series A,founder,business">
-    <meta property="og:site_name" content="Know Your Term Sheet">
+    <meta property="og:site_name" content="Know Your Term Sheet AI Prompt">
     <meta property="og:locale" content="en_US">
-    <meta property="og:title" content="Know Your Term Sheet">
-    <meta property="og:description" content="Once upon a time, the dark arts of term sheets were closely guarded. Now we can take the help of LLMs to understand them better.">
+    <meta property="og:title" content="Know Your Term Sheet AI Prompt">
+    <meta property="og:description" content="Once upon a time, the dark arts of term sheets were closely guarded. Now we can take the help of AI & LLMs to understand them better.">
     <meta property="og:image" content="term_sheet.webp">
     <meta property="og:url" content="https://knowyourtermsheet.com">
     <meta property="og:type" content="website">
-    <meta name="twitter:title" content="Know Your Term Sheet">
-    <meta name="twitter:description" content="Once upon a time, the dark arts of term sheets were closely guarded. Now we can take the help of LLMs to understand them better.">
+    <meta name="twitter:title" content="Know Your Term Sheet AI Prompt">
+    <meta name="twitter:description" content="Once upon a time, the dark arts of term sheets were closely guarded. Now we can take the help of AI & LLMs to understand them better.">
     <meta name="twitter:image" content="/term_sheet.webp">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:url" content="https://knowyourtermsheet.com">
     <meta name="twitter:creator" content="@pranitbauva1997">
     <meta name="twitter:site" content="@pranitbauva1997">
-    <meta name="twitter:image:alt" content="Know Your Term Sheet">
+    <meta name="twitter:image:alt" content="Know Your Term Sheet AI Prompt">
     <link rel="canonical" href="https://knowyourtermsheet.com">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -120,7 +120,7 @@
       }
 
       .reading-references {
-        font-size: 0.6em;
+        font-size: 0.7em;
       }
 
       .button-container {
@@ -188,10 +188,13 @@
   </head>
   <body>
     <nav>
-      <h1>Know Your Term Sheet</h1>
+      <h1>Know Your Term Sheet AI Prompt</h1>
     </nav>
     <main>
-      <p>Dear <b>Founder</b>,</p>
+      <div class="button-container">
+        <button id="copy-prompt-button-top">Copy AI Prompt</button>
+      </div>
+      <p><b>Dear Founder</b>,</p>
       <p>You have a <i>world-changing idea of solving an important problem</i>.</p>
       <p>You have <i>co-founder/s or decided to go solo</i>.</p>
       <p>You <i>quit your job</i>.</p>
@@ -212,7 +215,7 @@
       <p>I have been a founder before and I have created this page to make sure founders have that someone who could tell them that they could take less.</p>
       <p>Luckily, you don't have to share your term sheet or any of your personal information with me. Take the below prompt and use your favourite LLM model with the biggest context size and attach your term sheet over there.</p>
       <div class="button-container">
-        <button id="copy-prompt-button">Copy Prompt</button>
+        <button id="copy-prompt-button-bottom">Copy AI Prompt</button>
       </div>
       <pre id="prompt-code">
 This is a term sheet given by a venture capitalist. I have a few questions that protect the company's and the founders' interests. Explain. 
@@ -254,7 +257,7 @@ This is a term sheet given by a venture capitalist. I have a few questions that 
  - Does it have assignment clause?
       </pre>
       <p>You can find the source code for this page on <a target="_blank" href="https://github.com/pranitbauva1997/know-your-term-sheet">GitHub</a>. I welcome all suggestions to improve this.</p>
-      <p>Yours truly,<br /><b><a target="_blank" href="https://bauva.com">Pranit Bauva</a></b><br />pranit &lt;at&gt; bauva.com</p>
+      <p><b>Yours truly,<br /><a target="_blank" href="https://bauva.com">Pranit Bauva</a><br />pranit &lt;at&gt; bauva.com</b></p>
       <h2>Reading materials</h2>
       <div class="reading-references">
         <ul>
@@ -274,7 +277,11 @@ This is a term sheet given by a venture capitalist. I have a few questions that 
       });
     }
 
-    document.getElementById("copy-prompt-button").addEventListener("click", function() {
+    document.getElementById("copy-prompt-button-bottom").addEventListener("click", function() {
+      var preContent = document.getElementById("prompt-code").textContent;
+      copyTextToClipboard(preContent);
+    });
+    document.getElementById("copy-prompt-button-top").addEventListener("click", function() {
       var preContent = document.getElementById("prompt-code").textContent;
       copyTextToClipboard(preContent);
     });
